@@ -5,4 +5,4 @@ def move_zeros(lst):
 			lst.append(0)
 	return lst
 
-print('hello')
+print('oh it worked yay !')
