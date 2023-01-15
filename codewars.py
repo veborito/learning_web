@@ -4,3 +4,5 @@ def move_zeros(lst):
 			lst.pop(lst.index(el))
 			lst.append(0)
 	return lst
+
+print('hello')
