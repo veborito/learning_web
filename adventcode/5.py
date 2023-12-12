@@ -107,3 +107,5 @@ for el in location:
     if el[0] < min and el[0] != 0:
         min = el[0]
 print(min)
+for i in range(15):
+    print("im in dumbass")
